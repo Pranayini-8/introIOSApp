@@ -42,8 +42,8 @@ The following **required** functionality is completed:
 
 Describe any challenges encountered while building the app.
 
-ANS: The Xcode setup and interface was very new to me, but exploring it was interesting. Therefore finding the files in the 
-folder structure was pretty challenging.
+ANS: The Xcode setup and interface was very new to me, but exploring it was interesting. Mostly finding the files in the 
+folder structure was pretty challenging. Learning Swift is also going to be a new facet to my skillset but excited to learn further through the course.
 
 ## License
 

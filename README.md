@@ -2,7 +2,8 @@
 
 Submitted by: **Pranayini Singh**
 
-**Intro IOS App** is an app that... [TODO] 
+**Intro IOS App** is an app that has three labels and a button. The button
+lets you change the color of the background when clicked.
 
 Time spent: **5** hours spent in total
 
@@ -20,14 +21,27 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+**APP 1** - Pinterest
+- [ ] Touch gestures and button placement
+- [ ] Color palette used for the interface
+**APP 2** - Snapchat
+- [ ] Easy feature location with swipes and taps
+- [ ] Filters are fun to use
+- [ ] Saving pictures
+
+**APP 3** - Instagram
+- [ ] Innovative looking buttons
+- [ ] Color schemes for the UI are also unique
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+ANS: The Xcode setup and interface was very new to me, but exploring it was interesting. Therefore finding the files in the 
+folder structure was pretty challenging.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Pranayini Singh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

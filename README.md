@@ -38,6 +38,12 @@ The following **required** functionality is completed:
 - [ ] Innovative looking buttons
 - [ ] Color schemes for the UI are also unique
 
+**Preliminary App Idea** : Landlord Rating App
+
+This app will have profiles for different landlords and rating based on different aspects ranging from their attention to 
+maintenance issues or their demeanor towards the tenants. I aim for the app to help individuals decide on renting houses/apartments
+not just based on amenities but also the services being provided for the property.
+
 ## Notes
 
 Describe any challenges encountered while building the app.

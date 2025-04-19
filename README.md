@@ -24,6 +24,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 **APP 1** - Pinterest
 - [ ] Touch gestures and button placement
 - [ ] Color palette used for the interface
+
 **APP 2** - Snapchat
 - [ ] Easy feature location with swipes and taps
 - [ ] Filters are fun to use
@@ -36,6 +37,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 ANS: The Xcode setup and interface was very new to me, but exploring it was interesting. Therefore finding the files in the 
 folder structure was pretty challenging.
 
